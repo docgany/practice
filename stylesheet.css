@@ -10,7 +10,7 @@
         text-shadow: black, 40px;
     }
     h2 {
-        color:lightslategrey;
+        color:green;
     }
 }
 
@@ -20,4 +20,5 @@
 
 h1 {
     color: rgb(168, 187, 187);
+    text-shadow: 2px 2px rgb(152, 209, 139);
 }
